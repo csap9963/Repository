@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.java.JTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2014-12-14T16:30:45" hostname="StationP" time="0.016">
+  <properties/>
+  <testcase name="test" classname="test.java.JTest" time="0.016"/>
+  <system-out><![CDATA[Haudenhut
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
